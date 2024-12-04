@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\Stopwatch\\StopWatch\\Stopwatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24928855-EE1D-46E6-ACD3-85DFFEF5B0CE}|Stopwatch\\Stopwatch.csproj|e:\\hoctap\\prj_github\\stopwatch\\stopwatch\\stopwatch\\stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928855-EE1D-46E6-ACD3-85DFFEF5B0CE}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24928855-EE1D-46E6-ACD3-85DFFEF5B0CE}|Stopwatch\\Stopwatch.csproj|e:\\hoctap\\prj_github\\stopwatch\\stopwatch\\stopwatch\\stopwatch\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24928855-EE1D-46E6-ACD3-85DFFEF5B0CE}|Stopwatch\\Stopwatch.csproj|solutionrelative:stopwatch\\watch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "watch.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\Stopwatch\\StopWatch\\Stopwatch\\Stopwatch\\watch.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\watch.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\Stopwatch\\StopWatch\\Stopwatch\\Stopwatch\\watch.cs",
+              "RelativeToolTip": "Stopwatch\\watch.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:41:45.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\Stopwatch\\StopWatch\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeDocumentMoniker": "Stopwatch\\Program.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\Stopwatch\\StopWatch\\Stopwatch\\Stopwatch\\Program.cs",
+              "RelativeToolTip": "Stopwatch\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:41:17.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
